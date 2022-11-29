@@ -5,3 +5,10 @@ root.textContent = sum(6, -1).toString();
 
 // new code
 console.log(root);
+
+// test your code
+try {
+    console.log(console.log)
+} catch (error) {
+    console.error(error)
+}
